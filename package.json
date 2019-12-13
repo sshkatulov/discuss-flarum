@@ -1,0 +1,23 @@
+{
+  "name": "discuss-flarum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --browser chrome",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshkatulov/discuss-flarum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sshkatulov/discuss-flarum/issues"
+  },
+  "homepage": "https://github.com/sshkatulov/discuss-flarum#readme",
+  "devDependencies": {
+    "cypress": "^3.8.0"
+  }
+}

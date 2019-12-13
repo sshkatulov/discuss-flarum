@@ -1,0 +1,58 @@
+{
+  "data": {
+    "type": "users",
+    "id": "27995",
+    "attributes": {
+      "username": "uiop",
+      "displayName": "uiop",
+      "avatarUrl": null,
+      "joinTime": "2019-06-19T15:10:50+00:00",
+      "discussionCount": 0,
+      "commentCount": 271,
+      "canEdit": false,
+      "canDelete": false,
+      "lastSeenAt": "2019-12-04T12:18:22+00:00",
+      "isEmailConfirmed": true,
+      "email": "uiop@mailinator.com",
+      "markedAllAsReadAt": "2019-06-19T16:56:15+00:00",
+      "unreadNotificationCount": 0,
+      "newNotificationCount": 0,
+      "preferences": {
+        "blocksPd": false,
+        "notify_discussionRenamed_alert": true,
+        "notify_postLiked_alert": true,
+        "notify_discussionLocked_alert": true,
+        "notify_postMentioned_alert": true,
+        "notify_postMentioned_email": false,
+        "notify_userMentioned_alert": true,
+        "notify_userMentioned_email": false,
+        "notify_newPost_alert": true,
+        "notify_newPost_email": true,
+        "notify_userSuspended_alert": true,
+        "notify_userUnsuspended_alert": true,
+        "notify_newDiscussionInTag_alert": true,
+        "notify_newDiscussionInTag_email": true,
+        "notify_newPostInTag_alert": true,
+        "notify_newPostInTag_email": true,
+        "followAfterReply": false,
+        "discloseOnline": true,
+        "indexProfile": true,
+        "locale": null
+      },
+      "newFlagCount": 0,
+      "canSuspend": false,
+      "bio": "My updated bio",
+      "canSpamblock": false,
+      "blocksPd": false,
+      "cannotBeDirectMessaged": false,
+      "isBanned": false,
+      "canBanIP": false,
+      "usernameHistory": null
+    },
+    "relationships": {
+      "groups": {
+        "data": []
+      }
+    }
+  }
+}
