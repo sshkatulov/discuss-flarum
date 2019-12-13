@@ -21,7 +21,7 @@ To manage dependencies, `npm` is required (the lastest version is recommended).
 
 ## Setup
 
-1. Clone the project (e.g. via CLI `git clone https://github.com/sshkatulov/discuss_flarum.git`) and go to the main folder of the project. You'll need to be in that folder when running scripts.
+1. Clone the project (e.g. via CLI `git clone https://github.com/sshkatulov/discuss-flarum.git`) and go to the main folder of the project. You'll need to be in that folder when running scripts.
 2. Run `npm install`
 
 ## Run tests
