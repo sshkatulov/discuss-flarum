@@ -5,6 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "cypress run --browser chrome",
+    "test:electron": "cypress run",
+    "cy:verify": "cypress verify",
+    "cy:info": "cypress info",
     "cypress:open": "cypress open"
   },
   "repository": {
